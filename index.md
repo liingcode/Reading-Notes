@@ -10,4 +10,4 @@
 
 ***3.*** Never give up!
 
-***4.*** ~~We only were asked to list 3 things so I'm deleting this last one~~
+***4.*** ~~We only were asked to list 3 things sooo STRIKETHROUGH~~
