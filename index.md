@@ -12,7 +12,7 @@
 
 ***4.*** ~~We only were asked to list 3 things sooooo STRIKETHROUGH!!!~~
 
->***My name is Dashiell and I'm here to make a career transition into software development. It's a fun and challenging field and I'd like to contribute to it. I'm currently working at a large corporate enviornmment in Seattle as a senior level IT technician. Feel free to reach out to me as I am happy to share my knowledge and learn from others.*** 
+>***My name is Dashiell and I'm here to make a career transition into software development. It's a fun and challenging field and I'd like to contribute to it. I'm currently working at a large corporate environment in Seattle as a senior level IT technician. Feel free to reach out to me as I am happy to share my knowledge and learn from others.*** 
 
 ***GitHub Portfolio page:***
 
