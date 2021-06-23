@@ -1,5 +1,1 @@
-Explaining growth mindset
 
--
--
--
