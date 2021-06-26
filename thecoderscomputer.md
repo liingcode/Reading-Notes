@@ -1,5 +1,5 @@
 
-# The Coders's Computer
+# The Coder's Computer
 
 
 It was very interesting learing about all the special changes 
@@ -14,7 +14,7 @@ no idea! There were some stumbles along the way in configuring everything but th
 - Atom
 - Sublime Text
 
-# What is an IDE? What is a text editor?
+# What is a IDE? What is a text editor?
 
 An IDE is very specific text editor that combines a terminal,
 code editor, terminal and database together. It can save time
