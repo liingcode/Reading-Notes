@@ -1,4 +1,4 @@
-# H1 ***A Summary of What Markdown Is***
+ ***A Summary of What Markdown Is***
 
 One of the great things about mardown language is that it's simple.
 Simple to learn and write, one can learn the basics in an afternoon
@@ -10,7 +10,7 @@ like bolding, italicized text, bullet points, and numbered lists. I will show so
 like to see I found out, and something that not all developers know
 how to do. This makes it a great syntax to learn and then add to your quiver of tools as a developer!
 
-***EXAMPLES***
+***EXAMPLES:***
 
 1. 
 2. 
