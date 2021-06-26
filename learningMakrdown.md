@@ -1,5 +1,4 @@
-# H1
-***A Summary of What Markdown Is***
+# H1 ***A Summary of What Markdown Is***
 
 One of the great things about mardown language is that it's simple.
 Simple to learn and write, one can learn the basics in an afternoon
