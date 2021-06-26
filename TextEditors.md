@@ -1,6 +1,6 @@
-## Text Editors
+# Text Editors
 
-# Popular Text Editors
+## Popular Text Editors
 
 - notepad++
 - Atom
