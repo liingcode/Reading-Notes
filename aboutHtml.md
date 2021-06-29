@@ -7,7 +7,7 @@
 
 An HTML element is content surround by a start tag and end tag. See below:
 
-<p>a paragraph goes in here</p>
+<li><img src="3124.jpg"> </li>
 
 ### 2. It describes how a page is structured and presented
 
@@ -23,6 +23,8 @@ and
  ### 3. Links and pictures can be linked into html
 
  <li><img src="2021123.jpg"> </li>
+
+
 
  There's so much HTML around us on the internet, it's amazing to see what people have
  created with it. I'm enjoying learning more and look forward to applying more in the days 
