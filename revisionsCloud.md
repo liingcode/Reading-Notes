@@ -1,4 +1,4 @@
-# ****Revisions In The Cloud***
+# ***Revisions In The Cloud***
 
 
 ## WHAT IT MEANS
@@ -24,11 +24,11 @@ good thing!
 
 ### ADD
 
-#### COMMIT
+### COMMIT
 
 ### PUSH
 
-What you are doing in this process is staging your code, committing the changes, and then
+- What you are doing in this process is staging your code, committing the changes, and then
 pushing it to a chosen branch in the cloud. Below you will see the actual code:
 
 ' git add .'  < Adds everything that was changed to staging.
