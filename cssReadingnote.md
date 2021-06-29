@@ -17,5 +17,5 @@ delay the project.
 
 ## ***3***
 
-CSS stands for casscading style sheets and is used in combination
+CSS stands for cascading style sheets and is used in combination
 with markup languages like HTML. 
