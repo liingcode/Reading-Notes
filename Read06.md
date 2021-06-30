@@ -1,9 +1,9 @@
 # ***Learning About JavaScript***
 
-## *JavaScript Makes The Webpsge come ALIVE*
+## *JavaScript Makes The Webpage come ALIVE*
 
 - JavaScript, which is often shortened to just JS, is a scripting language
-that interrates and performs complicated actions on a webpage. It can do 
+that integrates and performs complicated actions on a webpage. It can do 
 implement features such as pop-up text boxes, animations, sliding bodies
 of text and so on. It really is one code language that allows the webpage to lift off the screen and integrate user input.
 
