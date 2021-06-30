@@ -10,6 +10,6 @@ of text and so on. It really is one code language that allows the webpage to lif
 - The user input feature is very exciting to me in that it means there's now
 an opportunity for me to create forms with code. Creating custom forms is one of the reasons I'm learning code, and JS has opened my mind to the possibilities! 
 
-### *Check Out Some JavaScript I've Written:
+### *Check Out Some JavaScript I've Written:*
 
 <li><img src="2022123.jpg"> </li>
